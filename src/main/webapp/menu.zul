@@ -1,0 +1,5 @@
+<zk>
+    <window title="Hello ZK - Spring Boot!" border="normal">
+        hello1 Menu.zul
+    </window>
+</zk>
